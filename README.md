@@ -1,4 +1,4 @@
-# Hi, I'm Red (Rishi Babu)
+# Hi, I'm ReD (Rishi Babu)
 
 🔭 Postdoctoral Research Associate at Michigan State University
 🛰️ High-Energy Astrophysics & Multi-Messenger Astronomy
