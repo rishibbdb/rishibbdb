@@ -33,7 +33,6 @@
 
 * **Observation of the Galactic Center PeVatron Beyond 100 TeV with HAWC**: corresponding author, *ApJ* (2024)
 * **Ultra-high-energy gamma-ray bubble around the microquasar V4641 Sgr**: contributing author, *Nature* (2024)
-* **NASA Fermi Guest Investigator Program, Cycle 18**: Co-PI
 * **HAWC**: Data Release Tech Lead, Data and Algorithms Working Group Leader
 
 ## 🌠 A Little About Me
