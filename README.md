@@ -1,4 +1,4 @@
-# Hi, I'm Red (Rishi Babu) ⋆⭒˚.⋆🪐 ⋆⭒˚.⋆
+# Hi, I'm Red (Rishi Babu)
 
 🔭 Postdoctoral Research Associate at Michigan State University
 🛰️ High-Energy Astrophysics & Multi-Messenger Astronomy
@@ -6,7 +6,7 @@
 🤖 Machine Learning for gamma-ray and neutrino astronomy
 🌌 Hunting for Galactic PeVatrons and cosmic-ray accelerators
 
-## 💻 Tech Stack
+## 💻 Technical Expertise
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
